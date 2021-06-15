@@ -5,7 +5,6 @@ import Html.Attributes exposing (..)
 import Html.Events exposing (onInput)
 import String exposing (String)
 import String exposing (String)
-import List
 
 
 
